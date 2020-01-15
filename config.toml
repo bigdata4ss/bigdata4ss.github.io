@@ -1,4 +1,4 @@
-baseurl = "https://bigdata4ss.github.io"
+baseurl = "https://bigdata4ss.github.io/"
 title = "Universal"
 theme = "hugo_universal"
 themesDir = "../"
